@@ -1,4 +1,4 @@
-[![MasterHead](https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Ibrahim Ahmed</h1>
 <h3 align="center">A passionate frontend developer</h3>
