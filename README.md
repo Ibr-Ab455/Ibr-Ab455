@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ibrahim Ahmed</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibr-ab455&label=Profile%20views&color=0e75b6&style=flat" alt="ibr-ab455" /> </p>
 
