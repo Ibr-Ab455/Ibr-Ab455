@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibr-ab455" alt="ibr-ab455" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Helid_" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahim?logo=twitter&style=for-the-badge" alt="ibrahim" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Helid_" target="blank"><img src="https://img.shields.io/twitter/https://twitter.com/Helid_?logo=twitter&style=for-the-badge" alt="ibrahim" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
