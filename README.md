@@ -9,7 +9,7 @@
 
 <p><img align="right" width="50%" src="javascript.gif" alt="NGUD" /></p>
 
-<p>As a Full Stack Software Engineer with 2 years of web development</p>
+
 
 
 
