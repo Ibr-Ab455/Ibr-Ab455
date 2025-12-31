@@ -26,11 +26,7 @@
 
 ####      <div align="center">![](https://img.shields.io/badge/React-blue)  ![](https://img.shields.io/badge/JavaScript-blue)  ![](https://img.shields.io/badge/SQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue)  ![](https://img.shields.io/badge/HTML-blue) ![](https://img.shields.io/badge/CSS-blue)  ![](https://img.shields.io/badge/GraphQL-blue) ![](https://img.shields.io/badge/Bootstrap-blue) ![](https://img.shields.io/badge/TailwindCSS-blue) ![](https://img.shields.io/badge/C---blue) ![](https://img.shields.io/badge/Material%20UI-blue)  ![](https://img.shields.io/badge/%20Design-blue)</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Ibrahim26592495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ibra" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ibrahim-ahmed-2b9b292b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-ahmed-2b9b292b6/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ibrahim_ah25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ibrahim_ah25/" height="30" width="40" /></a>
+
 
 
 
